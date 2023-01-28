@@ -1,5 +1,5 @@
 {
-  "name": "teachingFellows",
+  "name": "teachingfellows",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
@@ -10,5 +10,21 @@
     "test_string": "jest tests/stringcleaning.test.js",
     "test_fizz": "jest tests/fizzbuzz.test.js",
     "test_odd": "jest tests/oddoneout.test.js"
-  }
+  },
+  "description": "The All Star Code Teaching Fellow JavaScript Assessment consists of 3 tasks, to be completed and turned in to lincoln@allstarcode.org as a GitHub gist.",
+  "directories": {
+    "test": "tests"
+  },
+  "devDependencies": {
+    "mocha": "^10.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LouisASC22/TF_JavaScriptAssessment.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/LouisASC22/TF_JavaScriptAssessment/issues"
+  },
+  "homepage": "https://github.com/LouisASC22/TF_JavaScriptAssessment#readme"
 }
